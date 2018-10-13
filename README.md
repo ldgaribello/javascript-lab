@@ -1,5 +1,5 @@
-# playground
-This is a web application built test basics of react.js + javascript
+# Playground
+This is a web application built to test basics of react.js + javascript
 
 # Prerequisites
 
